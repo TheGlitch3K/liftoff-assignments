@@ -1,19 +1,21 @@
 # Project Planning
+
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
+[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+/assets/images/wireframes.png
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Here is a link to the Trello board for the first two weeks of the project:
+https://trello.com/b/4EeCsZUS/liftoff-july-2022
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Here is a link to the Recipe App on GitHub:
+https://github.com/Jul-2022-LC-LiftOff/RecipeApp
