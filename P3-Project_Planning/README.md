@@ -10,6 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 /assets/images/wireframes.png
 
+Wire Frame Designs using Figma.
+
+https://www.figma.com/file/sVkXdUskMBBfnsUrGXgSPR/Recipe-App?node-id=0%3A1
+
 ### Project Tracker
 
 Here is a link to the Trello board for the first two weeks of the project:
